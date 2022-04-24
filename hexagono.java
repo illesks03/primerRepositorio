@@ -1,5 +1,7 @@
-//Hola
-public class Hexagono(){
+/**
+ *@author illesk
+ */
+public hexagono(){
 
-    
+
 }
